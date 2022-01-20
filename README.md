@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Petar641
 - 👀 I’m interested in C++, JAVA and general WEB development
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Kotlin
 - 📫 How to reach me ... sebic.petar641@gmail.com or SRB 381+ 60 641/13-98
 
 <!---
